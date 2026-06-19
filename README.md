@@ -171,5 +171,4 @@ Code in this repository is released under the MIT License. See
 If you use this code, please cite both the software and the associated
 article. Citation metadata is in [`CITATION.cff`](CITATION.cff), and GitHub
 renders a "Cite this repository" button from it. The Dryad data DOI is
-already recorded there; add the article DOI (and a Zenodo DOI, if you archive
-a release) once they are assigned.
+already recorded there; add the article DOI once it is assigned.
