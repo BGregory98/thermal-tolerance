@@ -38,7 +38,9 @@ thermal-tolerance/
 │   ├── 04_cold.R                  Figure 4
 │   ├── 05_bioclim_regressions.R   BIOCLIM ~ phenotype tables
 │   ├── 06_container_temps.R       Container-habitat temperatures
-│   └── 07_freezer_calibration.R   Supplementary freezer ramp (Fig. 6)
+│   ├── 07_freezer_calibration.R   Supplementary freezer ramp (Fig. 6)
+│   ├── 08_hybrid_zone.R           Hybrid-zone ramping (Baltimore, SERC)
+│   └── 09_bioclim_descriptive.R   Descriptive BIOCLIM summaries
 ├── data/                          (you provide — see "Input data" below)
 ├── output/
 │   ├── figures/                   Generated figures (auto-created)
