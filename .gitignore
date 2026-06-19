@@ -1,0 +1,30 @@
+# --- R / RStudio / Positron ------------------------------------------------
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.bak
+
+# --- Positron / VS Code ----------------------------------------------------
+.vscode/
+*.code-workspace
+
+# --- Generated outputs (auto-created by the pipeline) ----------------------
+output/
+cache/
+
+# --- Input data (distributed via Dryad, not tracked in git) ----------------
+# Survival CSVs and large CHELSA rasters live in data/ and are NOT committed.
+# See README "Input data" for where to obtain them.
+data/
+
+# If you DO want to commit the small survival CSVs but never the rasters,
+# comment out `data/` above and uncomment the two lines below instead:
+# data/CHELSA/
+# *.tif
+
+# --- OS / editor cruft -----------------------------------------------------
+.DS_Store
+Thumbs.db
+*~
+*.swp

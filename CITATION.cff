@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the software and the associated article."
+title: "Analysis code: stage-specific divergence in larval thermal tolerance in the Culex pipiens Assemblage"
+type: software
+authors:
+  - given-names: "Benjamin P."
+    family-names: Gregory
+    affiliation: "Department of Entomology, University of Maryland, College Park, MD 20742"
+  - given-names: Helle
+    family-names: Aronson
+    affiliation: "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061"
+  - given-names: Clément
+    family-names: Vinauger
+    affiliation: "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061"
+  - given-names: Chloé
+    family-names: Lahondère
+    affiliation: "Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061"
+  - given-names: "Megan L."
+    family-names: Fritz
+    affiliation: "Department of Entomology, University of Maryland, College Park, MD 20742"
+    email: mfritz13@umd.edu
+repository-code: "https://github.com/bgregory98/thermal-tolerance"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-19"
+keywords:
+  - Culex pipiens
+  - thermal tolerance
+  - mosquito
+  - larval development
+  - R
+preferred-citation:
+  type: article
+  title: "Stage-specific divergence in larval thermal tolerance among populations of the Culex pipiens Assemblage"
+  authors:
+    - given-names: "Benjamin P."
+      family-names: Gregory
+    - given-names: Helle
+      family-names: Aronson
+    - given-names: Clément
+      family-names: Vinauger
+    - given-names: Chloé
+      family-names: Lahondère
+    - given-names: "Megan L."
+      family-names: Fritz
+  journal: "Journal of Medical Entomology"
+  year: 2026
+  # Article DOI not yet assigned — add it here when available.
+references:
+  - type: data
+    title: "Data from: Stage-specific divergence in larval thermal tolerance among populations of the Culex pipiens Assemblage"
+    authors:
+      - given-names: "Benjamin P."
+        family-names: Gregory
+      - given-names: Helle
+        family-names: Aronson
+      - given-names: Clément
+        family-names: Vinauger
+      - given-names: Chloé
+        family-names: Lahondère
+      - given-names: "Megan L."
+        family-names: Fritz
+    doi: "10.5061/dryad.x69p8d00x"
+    repository: "Dryad"
+    year: 2026
