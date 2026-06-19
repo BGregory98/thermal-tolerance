@@ -145,7 +145,7 @@ install.packages(c(
 
 ## Reproducibility
 
-This pipeline was developed and run under **R [add version, e.g. 4.4.x]**.
+This pipeline was developed and run under **R 4.5.1**.
 To record the exact package versions used for the published results, run
 `sessionInfo()` (or `sessioninfo::session_info()`) at the end of a full run
 and paste the output here, or commit it as `session_info.txt`.
