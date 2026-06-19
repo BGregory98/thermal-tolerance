@@ -41,7 +41,7 @@ thermal-tolerance/
 │   ├── 07_freezer_calibration.R   Supplementary freezer ramp (Fig. 6)
 │   ├── 08_hybrid_zone.R           Hybrid-zone ramping (Baltimore, SERC)
 │   └── 09_bioclim_descriptive.R   Descriptive BIOCLIM summaries
-├── data/                          (you provide — see "Input data" below)
+├── data/                          (see "Input data" below)
 ├── output/
 │   ├── figures/                   Generated figures (auto-created)
 │   └── tables/                    Generated CSV tables (auto-created)
